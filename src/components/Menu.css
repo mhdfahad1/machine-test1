@@ -1,0 +1,20 @@
+.menubar{
+    height: 85vh;
+    background-color:white;
+
+}
+.dashboard{
+    width: 170px;
+    height: 40px;
+    background-color: #80ccff;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.perks{
+    width: 170px;
+    height: 40px;
+    /* border: 1px solid; */
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+
+}

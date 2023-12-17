@@ -1,0 +1,15 @@
+.dashborad {
+    padding-left: 60px;
+    padding-top: 30px;
+    height: 85vh;
+    background-color: white;
+}
+.headpart{
+
+}
+.plans{
+    border: 1px solid;
+}
+.footerpart{
+    padding-right: 60px;
+}
